@@ -1,180 +1,69 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=230&section=header&text=Alok%20Mahadev%20Tungal&fontSize=40&fontAlignY=38&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=180&section=header&text=Alok%20Mahadev%20Tungal&fontSize=45&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20GenAI%20Developer&descSize=20&descAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
-<h1 align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=900&height=80&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+(OpenCV+%2F+YOLO);Generative+AI+%7C+Agentic+Workflows;Building+Intelligent+Python+Applications" />
+<div align="center">
+  
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-</h1>
-
----
-
-# 👨‍💻 **About Me**
-
-Hi, I am **Alok Mahadev Tungal**, a passionate **Data Scientist** and **Machine Learning Engineer**.  
-I specialize in building intelligent systems using **Deep Learning (ANN/CNN)**, **Computer Vision**, and **Generative AI**. I have hands-on experience developing end-to-end applications, from data preprocessing to deploying models using **Streamlit**.
-
-My recent work focuses on **Agentic AI**, **Real-time Object Detection**, and **Predictive Modeling**.
-
-📍 India  
-📧 **[INSERT YOUR EMAIL HERE]** 🔗 **[LinkedIn]([INSERT YOUR LINKEDIN URL HERE])** 🔗 **[Portfolio]([INSERT YOUR PORTFOLIO/GITHUB URL HERE])** ---
-
-### _Core tools and technologies I use for AI, data science, and development_
-
----
-
-## 🤖 AI / Machine Learning / Deep Learning
-![GenAI](https://img.shields.io/badge/Generative%20AI-FED300?logo=openai&logoColor=000)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C5C5C?logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
-
----
-
-## 🧠 LLM / GenAI Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?logo=openai&logoColor=white)
-
----
-
-## 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-1E90FF?logo=databricks&logoColor=white)
-
----
-
-## 🔧 Programming Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)
-
----
-
-# 🧠 **Tech Stack**
-
-<details>
-<summary><h3>🧬 Artificial Intelligence & Deep Learning</h3></summary>
-
-- **Algorithms:** Random Forest, Decision Trees, XGBoost, Linear/Logistic Regression  
-- **Deep Learning:** Artificial Neural Networks (ANN), CNN, RNN  
-- **Model Tuning:** Handling Overfitting/Underfitting, Hyperparameter Tuning  
-- **Frameworks:** TensorFlow, Keras, Scikit-Learn
-
-</details>
-
-<details>
-<summary><h3>👁️ Computer Vision</h3></summary>
-
-- **Object Detection:** YOLO (You Only Look Once)  
-- **Image Processing:** OpenCV (cv2)  
-- **Applications:** Automatic Number Plate Recognition (ANPR), Real-time monitoring
-
-</details>
-
-<details>
-<summary><h3>🤖 Generative AI & Agents</h3></summary>
-
-- **Agentic AI:** Building autonomous agents for workflows  
-- **LLMs:** Prompt Engineering, RAG  
-- **Tools:** LangChain, Vector Databases
-
-</details>
-
-<details>
-<summary><h3>📊 Data Analytics & Visualization</h3></summary>
-
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Process:** Data Cleaning, Feature Engineering, EDA  
-- **Visualization:** Interactive Streamlit Dashboards
-
-</details>
-
----
-
-# 🚀 **Featured Projects**
-
-<details>
-<summary><h3>🤖 Agentic AI Resume-Based Portfolio</h3></summary>
-
-- **Tech:** Generative AI, Python, Agents  
-- Developed an intelligent portfolio system using **Agentic AI**.  
-- System uses LLMs to dynamically parse resume data and interact with users.  
-- Implemented advanced prompting strategies for context-aware responses.
-
-</details>
-
-<details>
-<summary><h3>🚗 Car Price Prediction (ANN & Streamlit)</h3></summary>
-
-- **Tech:** Deep Learning (ANN), Streamlit, Python  
-- Built a predictive model using **Artificial Neural Networks** to estimate used car prices.  
-- Created a professional, user-friendly frontend using **Streamlit**.  
-- Features an interactive "About Me" and prediction interface.
-
-</details>
-
-<details>
-<summary><h3>🚘 Automatic Number Plate Recognition (ANPR)</h3></summary>
-
-- **Tech:** YOLO, OpenCV, Python, Computer Vision  
-- Developed a real-time system to detect and recognize vehicle license plates.  
-- Utilized **YOLO** architecture for high-speed object detection.  
-- Implemented image pre-processing techniques using **OpenCV** to improve accuracy.
-
-</details>
-
-<details>
-<summary><h3>📉 Telecom Customer Churn Prediction</h3></summary>
-
-- **Tech:** Machine Learning, Classification, Pandas  
-- Analyzed customer datasets to predict churn probability.  
-- Applied classification algorithms to identify at-risk customers.  
-- Performed extensive EDA to visualize churn factors.
-
-</details>
-
----
-
-# 📚 **Daily Learning**
-
-I am currently focused on mastering **Generative AI Agents**, **Advanced Deep Learning architectures**, and optimizing **Computer Vision** pipelines for real-world deployment.
-
----
-
-# 💼 **Open to Opportunities**
-
-I am a recent graduate actively seeking opportunities as:
-
-- Data Scientist  
-- Machine Learning Engineer  
-- Generative AI Engineer  
-- Computer Vision Engineer  
-
-Ready to join immediately.
-
----
-
-# 🤝 **Let's Connect**
-
-<p align="left">
-
-  <a href="mailto:[INSERT YOUR EMAIL HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
 
-  <a href="[INSERT YOUR LINKEDIN URL HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
+</div>
 
-  <a href="https://github.com/[INSERT YOUR GITHUB USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" />
-  </a>
+<br />
 
-</p>
+### 👋 About Me
+
+I am a passionate **Data Scientist** and **Machine Learning Engineer** focused on building intelligent systems. I specialize in bridging the gap between raw data and deployed applications using **Deep Learning**, **Computer Vision**, and **Generative AI**.
+
+* 🔭 I’m currently working on **Agentic AI Workflows** and **Real-time Object Detection**.
+* 🌱 I’m constantly learning **Advanced LLM RAG Pipelines** and **MLOps**.
+* 💡 **Key Strength:** Building end-to-end Python applications (From Model to Streamlit UI).
+* 🎯 **Goal:** Seeking opportunities to contribute as a Data Scientist or AI Engineer.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer)
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![ANN](https://img.shields.io/badge/-ANN%20%2F%20CNN-8A2BE2?style=flat) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black) |
+| **GenAI & LLM** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Agents](https://img.shields.io/badge/-Agentic%20AI-000000?style=flat&logo=openai&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| **Deployment** | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 Agentic AI Portfolio** | *Python, GenAI, Agents* | A smart portfolio that uses Autonomous AI Agents to dynamically answer questions based on my resume data. |
+| **🚘 ANPR System** | *YOLO, OpenCV, Python* | Automatic Number Plate Recognition system. Detects and extracts vehicle numbers from video feeds in real-time. |
+| **🚗 Car Price Predictor** | *ANN, Streamlit, Pandas* | Deep Learning model (ANN) to predict used car prices. Features a professional Streamlit UI for user interaction. |
+| **📉 Churn Prediction** | *ML Classification, EDA* | Telecom customer retention model. Analyzes user behavior to predict churn probability with high accuracy. |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Turning Data into Intelligence, and Code into Impact."</i>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,0&height=100&section=footer" width="100%" />
+</div>
